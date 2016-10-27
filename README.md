@@ -1,3 +1,3 @@
-# WNM499 Final Project
+# WNM499 Midterm Project
 
-This is the repo for WNM499 Final Project.
+This is the repo for WNM499 Midterm Project.
