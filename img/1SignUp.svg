@@ -1,0 +1,15 @@
+
+<svg width="202px" height="183px" viewBox="-1 -2 202 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <polyline id="Rectangle" stroke="#24B47E" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(100.000000, 30.000000) rotate(-90.000000) translate(-100.000000, -30.000000) " points="70 -37.1094181 70 -70 130 -70 130 130 70 130 70 22.1359387"></polyline>
+    <circle id="Oval" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="70" cy="30" r="5"></circle>
+    <circle id="Oval-Copy-5" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="170" cy="30" r="5"></circle>
+    <circle id="Oval-Copy-2" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="90" cy="30" r="5"></circle>
+    <circle id="Oval-Copy-4" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="110" cy="30" r="5"></circle>
+    <circle id="Oval-Copy" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="50" cy="30" r="5"></circle>
+    <circle id="Oval-Copy-8" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="150" cy="30" r="5"></circle>
+    <circle id="Oval-Copy-3" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="30" cy="30" r="5"></circle>
+    <circle id="Oval-Copy-9" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="130" cy="30" r="5"></circle>
+    <circle id="Oval-2" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" cx="63" cy="82" r="30"></circle>
+    <path d="M27.75,108.75 C27.75,108.75 42.8562914,108.75 61.5,108.75 L61.5,108.75 C80.1396103,108.75 95.25,123.858863 95.25,142.501768 L95.25,148.998232 C95.25,167.638819 80.1437086,182.75 61.5,182.75 L31.7453251,182.75 C29.538768,182.75 27.75,180.950013 27.75,178.753284 L27.75,168.537784" id="Rectangle-2" stroke="#484D52" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(61.500000, 145.750000) rotate(-90.000000) translate(-61.500000, -145.750000) "></path>
+    <polygon id="Rectangle-3-Copy-4" stroke="#24B47E" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" fill="none" transform="translate(148.958179, 108.000000) rotate(-90.000000) translate(-148.958179, -108.000000) " points="154.008807 102.927692 174.958179 102.927692 174.958179 112.903584 154.008807 112.903584 154.008807 133.958179 144.161444 133.958179 144.161444 112.895064 122.958179 112.895064 122.958179 103.140992 144.057145 103.140992 144.057145 82.0418205 153.941313 82.0418205"></polygon>
+</svg>

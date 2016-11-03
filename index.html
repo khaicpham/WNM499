@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Everly - Sell, buy, and interact in real-time with the only livestream shopping network</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/vivus/0.3.2/vivus.min.js"></script>
+  <script src="https://use.fontawesome.com/c2e85bce61.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <div class="logo">
+    <img src="img/logo.svg" alt="everly logo">
+  </div>
+</div>
+
+<div class="navbar-container hidden">
+  <a class="navbar-links">Link 1</a>
+  <a class="navbar-links">Link 2</a>
+  <a class="navbar-links">Link 3</a>
+  <a class="navbar-links">Link 4</a>
+</div>
+
+<!-- <div class="heroimg-container" style="background-image:url('https://unsplash.it/800?random')"></div> -->
+
+<video playsinline autoplay muted loop poster="img/poster.png" id="bgvid">
+    <source src="Everly-bgr.mp4" type="video/mp4">
+</video>
+
+<div class="hero-container">
+  <div class="container" id="heroContainer">
+    <h1 class="hero-title">Online Shopping Reimagined</h1>
+    <p class="hero-subtitle">Sell, buy, and interact in real-time with the only livestream shopping network.</p>
+    <button class="hero-CTA">Download Everly</button>
+  </div>
+</div>
+
+<section class="section" id="firstSection">
+  <div class="container">
+    <h2 class="section-title">A new way to sell your products</h2>
+    <p>Everly is the only livestream shopping network that allows you to sell and interact in real-time with your customers. With Everly, you can both capture their trust and attention from the convenience of your mobile device.</p>
+    <a href="" class="section-link">See how Amber reaches her customers through Everly <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+  </div>
+</section>
+
+<section class="section" id="stepSection">
+  <div class="container">
+    <h2 class="section-title">3 steps to start selling</h2>
+    <p>Get your Everly store up and running faster than brewing a cup of coffee. You are only few taps away from your potential customers, literally.</p>
+    <div class="section-stepsContainer">
+      <div class="section-stepsWrapper">
+        <div class="section-stepsItem">
+          <div class="section-steps">
+            <div class="section-steps-img"><div id="illSignUp"></div></div>
+            <div class="section-steps-subtitle">1. Sign up below</div>
+            <div class="section-steps-details">It takes less than 5 minutes</div>
+          </div>
+        </div>
+        <div class="section-stepsItem">
+          <div class="section-steps">
+            <div class="section-steps-img"><div id="illDownload"></div></div>
+            <div class="section-steps-subtitle">2. Download Everly</div>
+            <div class="section-steps-details">Available on App Store & Google Play</div>
+          </div>
+        </div>
+        <div class="section-stepsItem">
+          <div class="section-steps">
+            <div class="section-steps-img"><div id="illStream"></div></div>
+            <div class="section-steps-subtitle">3. Start streaming</div>
+            <div class="section-steps-details">It's that easy!</div>
+          </div>
+        </div>
+      </div>
+      <button class="section-button">Sign up now</button>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container section-container">
+    <div class="section-info">
+      <h2 class="section-title">Seamless management</h2>
+      <p>Everly is built for the mobile generation. You can easily add items, adjust inventory, and handle shipping right from Everly mobile app.</p>
+    </div>
+    <div class="section-img-wrapper">
+      <div class="section-img">
+        <img src="img/iPhone.png" alt="">
+        <img src="img/Manage.png" alt="" class="screenshot">
+      </div>
+    </div>
+  </div>
+  <!-- <div class="section-bgrImg section-bgrImg--3">
+    <img src="img/plant.png" alt="">
+  </div> -->
+</section>
+
+<section class="section">
+  <div class="container section-container">
+    <div class="section-info">
+      <h2 class="section-title">Dynamic price</h2>
+      <p>You can set up flash sales, change prices based on number of items in stock, or schedule special promotions. Your customers will have way too many excuses to come back.</p>
+    </div>
+    <div class="section-img-wrapper">
+      <div class="section-img">
+        <img src="img/iPhone.png" alt="">
+        <img src="img/Price.png" alt="" class="screenshot">
+      </div>
+    </div>
+  </div>
+  <!-- <div class="section-bgrImg section-bgrImg--2">
+    <img src="img/headphone.jpg" alt="">
+  </div> -->
+</section>
+
+<section class="section">
+  <div class="container section-container">
+    <div class="section-info">
+      <h2 class="section-title">Secure payment</h2>
+      <p>Everly takes care of all payment details so you are able to focus on what you do best—bring smiles to your customers.</p>
+    </div>
+    <div class="section-img-wrapper">
+      <div class="section-img">
+        <img src="img/iPhone.png" alt="">
+        <img src="img/Payment.png" alt="" class="screenshot">
+      </div>
+    </div>
+  </div>
+  <!-- <div class="section-bgrImg section-bgrImg--1">
+    <img src="img/pen.png" alt="">
+  </div> -->
+</section>
+
+<section class="section" id="bottomCTA">
+  <div class="container">
+    <h4 class="CTA-subtitle">Ready to get started?</h4>
+    <h5 class="CTA-text">Create your account, or download Everly.</h5>
+    <button class="CTA-button">Create my account</button>
+    <button class="CTA-button CTA-button--green">Download Everly</button>
+  </div>
+</section>
+
+<footer>
+  <p>© Copyright Everly Shopping Network 2016</p>
+  <a href="">Terms & Policy</a>
+</footer>
+
+<script>
+  new Vivus('illSignUp', {type: 'delayed', duration: 100, file: 'img/1SignUp.svg'});
+  new Vivus('illDownload', {type: 'delayed', duration: 100, file: 'img/2Download.svg'});
+  new Vivus('illStream', {type: 'delayed', duration: 100, file: 'img/3Stream.svg'});
+</script>
+
+<script>
+  var currentS = 0;
+  var currentItem = $('.section-stepsItem:first-child');
+  var currentIndex = $('.section-stepsItem:first-child').index() + 1;
+  var totalItem = $('.section-stepsItem').length;
+
+
+  $(".section-stepsWrapper").on("touchend",function(e){
+    var s = $(this);
+    var newS = s.scrollLeft();
+
+    if (newS > currentS) {
+      if (currentIndex < totalItem) {
+        s.css({"overflow-x":"hidden"});
+        s.animate({scrollLeft: s.scrollLeft()+currentItem.next().position().left}, 300);
+        currentIndex = currentIndex + 1;
+        currentItem = currentItem.next();
+        setTimeout(function(){s.css({"overflow-x":"scroll"})},10);
+      } else if (currentIndex = totalItem) {
+        s.css({"overflow-x":"hidden"});
+        s.animate({scrollLeft: s.scrollLeft()+currentItem.position().left}, 300);
+        setTimeout(function(){s.css({"overflow-x":"scroll"})},10);
+      }
+    } else if (newS < currentS) {
+      if (currentIndex > 1) {
+        s.css({"overflow-x":"hidden"});
+        s.animate({scrollLeft: s.scrollLeft()+currentItem.prev().position().left}, 300);
+        currentIndex = currentIndex - 1;
+        currentItem = currentItem.prev();
+        setTimeout(function(){s.css({"overflow-x":"scroll"})},10);
+      } else if (currentIndex = 1) {
+        s.css({"overflow-x":"hidden"});
+        s.animate({scrollLeft: s.scrollLeft()+currentItem.position().left}, 300);
+        setTimeout(function(){s.css({"overflow-x":"scroll"})},10);
+      }
+    } else {
+      s.css({"overflow-x":"hidden"});
+      s.animate({scrollLeft: s.scrollLeft()+currentItem.position().left}, 300);
+      setTimeout(function(){s.css({"overflow-x":"scroll"})},10);
+    }
+    currentS = s.scrollLeft();
+  })
+</script>
+
+</body>
+</html>
